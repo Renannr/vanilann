@@ -1,2 +1,1 @@
-# vanilann
-vanila neural network
+Vanila neural network in python
